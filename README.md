@@ -1,1 +1,1 @@
-# Towards-Noncontact-3D-Ultrasound-for-Wrist-Imaging
+# Towards Noncontact 3DUltrasound for Wrist Imaging
