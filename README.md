@@ -14,11 +14,21 @@ Please follow the below instructions to run the code.
 Download the source code (.p file) and Demo files from the below google drive link
 https://drive.google.com/drive/folders/1Tki-1H_kJP2GErW7ZMFKwdzOMczMqDQX?usp=sharing
 
+**Requirements for running the code**
+Matlab 2022a or greater
+Image Processing Toolbox Matlab
+Volume Viewer App in Matlab (For visualising the volume)
+Python environment with tensorflow, numpy and cv2 installed
 
-Please note that the source code has the following dependencies:
-(a) MUST Toolbox (ver.2.0): used for robust smoothing and vector flow visualisation
-(b) Time-Frequency Toolbox (tftb-ver.0.2): used to obtain localised time-frequency plots of the beamformed signal
-(c) The show_Figure6.m uses tiledlayout and requires MATLAB 2019b or higher for its execution
-Download the MUST toolbox, Time-Frequency Toolbox and place it in source_code/lib/
-Set appropriate values for bfParams.beamApod and bfParams.DMAS in mainCode_expPWIdisc.m and run the same. Please ensure that the paths provided in mainCode_expPWIdisc.m is valid.
-The show_Figure3.m should be executed only after executing mainCode_expPWIdisc.m with saveEnable set to 1.
+**Working**
+Executing the code gives a UI as shown below
+![image](https://github.com/antony333/Towards-Noncontact-3D-Ultrasound-for-Wrist-Imaging/assets/72541715/822ee913-939a-441b-812a-fe5916463f26)
+
+Upload the Demo Files Folder to the application
+
+Folder hierarchy of the Demo Files folder is as shown below
+![Input folder hierarchy](https://github.com/antony333/Towards-Noncontact-3D-Ultrasound-for-Wrist-Imaging/assets/72541715/6c273a9b-cab8-440c-80db-37bb7599c1bf)
+
+
+
+
