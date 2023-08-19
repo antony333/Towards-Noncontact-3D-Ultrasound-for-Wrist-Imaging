@@ -34,7 +34,9 @@ Folder hierarchy of the Demo Files folder is as shown below
 
 **Demo Video of how to use the UI**
 
-https://github.com/antony333/Towards-Noncontact-3D-Ultrasound-for-Wrist-Imaging/assets/72541715/81ffe5c3-71da-4875-ab78-5fb60dab14bd
+https://github.com/antony333/Towards-Noncontact-3D-Ultrasound-for-Wrist-Imaging/assets/72541715/ed46e507-4d3d-4319-8e24-d16ac262fdad
+
+
 
 
 
