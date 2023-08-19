@@ -14,22 +14,30 @@ Please follow the below instructions to run the code.
 Download the source code (.p file) and Demo files from the below google drive link
 https://drive.google.com/drive/folders/1Tki-1H_kJP2GErW7ZMFKwdzOMczMqDQX?usp=sharing
 
-**Requirements for running the code**
-Matlab 2022a or greater
-Image Processing Toolbox Matlab
-Volume Viewer App in Matlab (For visualising the volume)
-Python environment with tensorflow, numpy and cv2 installed
+**Requirements for running the code**  
+Matlab 2022a or greater  
+Image Processing Toolbox Matlab  
+Volume Viewer App in Matlab (For visualising the volume)  
+Python environment with tensorflow, numpy and cv2 installed  
 
 **Working**
+
 Executing the code gives a UI as shown below
-<img src="![Input folder hierarchy](https://github.com/antony333/Towards-Noncontact-3D-Ultrasound-for-Wrist-Imaging/assets/72541715/29d754a5-3e19-41b6-a2b9-c6a686d45d2c)" alt="Alt Text" width="400" height="300">
 
-![image](https://github.com/antony333/Towards-Noncontact-3D-Ultrasound-for-Wrist-Imaging/assets/72541715/822ee913-939a-441b-812a-fe5916463f26)
+<img src="https://github.com/antony333/Towards-Noncontact-3D-Ultrasound-for-Wrist-Imaging/assets/72541715/822ee913-939a-441b-812a-fe5916463f26" alt="Alt Text" height="450">  
 
-Upload the Demo Files Folder to the application
+
+Upload the Demo Files Folder to the application    
 
 Folder hierarchy of the Demo Files folder is as shown below
-![Input folder hierarchy](https://github.com/antony333/Towards-Noncontact-3D-Ultrasound-for-Wrist-Imaging/assets/72541715/6c273a9b-cab8-440c-80db-37bb7599c1bf)
+
+<img src="https://github.com/antony333/Towards-Noncontact-3D-Ultrasound-for-Wrist-Imaging/assets/72541715/6c273a9b-cab8-440c-80db-37bb7599c1bf" alt="Alt Text" height="450">
+
+**Demo Video of how to use the UI**
+
+https://github.com/antony333/Towards-Noncontact-3D-Ultrasound-for-Wrist-Imaging/assets/72541715/81ffe5c3-71da-4875-ab78-5fb60dab14bd
+
+
 
 
 
