@@ -5,7 +5,7 @@ Repository to share the MATLAB implementation of ultrasound 3D reconstruction fr
 DATE 15-08-2023 : VERSION 1.0
 
 ## Authors
-Antony Jerald, Madhavanunni A. N., Gayathri Malamal and Mahesh Raveendranatha Panicker
+Antony Jerald, Madhavanunni A. N., Gayathri Malamal and Mahesh Raveendranatha Panicker    
 Center for Computational Imaging, Indian Institute of Technology Palakkad, Kerala, India.
 
 ## Instructions for the execution of codes
