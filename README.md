@@ -24,14 +24,13 @@ Python environment with tensorflow, numpy and cv2 installed
 
 Executing the code gives a UI as shown below
 
-<img src="https://github.com/antony333/Towards-Noncontact-3D-Ultrasound-for-Wrist-Imaging/assets/72541715/822ee913-939a-441b-812a-fe5916463f26" alt="Alt Text" height="450">  
-
+![image](https://github.com/antony333/Towards-Noncontact-3D-Ultrasound-for-Wrist-Imaging/assets/72541715/32efae43-a985-487b-93de-f1221bcba616)
 
 Upload the Demo Files Folder to the application    
 
 Folder hierarchy of the Demo Files folder is as shown below
 
-<img src="https://github.com/antony333/Towards-Noncontact-3D-Ultrasound-for-Wrist-Imaging/assets/72541715/6c273a9b-cab8-440c-80db-37bb7599c1bf" alt="Alt Text" height="450">
+![Input folder hierarchy](https://github.com/antony333/Towards-Noncontact-3D-Ultrasound-for-Wrist-Imaging/assets/72541715/2241b21c-2807-4db7-aa6b-653dc347ed75)
 
 **Demo Video of how to use the UI**
 
